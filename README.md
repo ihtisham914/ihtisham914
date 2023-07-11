@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://myportfolionuxt.vercel.app](https://myportfolionuxt.vercel.app)
+- 👨‍💻 All of my projects are available at [https://ihtishamportfolionuxt.netlify.app](https://ihtishamportfolionuxt.netlify.app)
 
 - 💬 Ask me about **react, node, express**
 
